@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/QAAQ1804/SDN301m/issues"
   },
-  "homepage": "https://github.com/QAAQ1804/SDN301m#readme"
+  "homepage": "https://github.com/QAAQ1804/SDN301m#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
